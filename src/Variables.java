@@ -7,7 +7,7 @@ public class Variables {
 
         int salary = 10000;
         // bonus $2000
-        salary = salary + 2000;
+        salary += 2000;
         String employeeName = "Clark Kent";
         System.out.println(speed);
         System.out.println(employeeName + " earns " + salary);
